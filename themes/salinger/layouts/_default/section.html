@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+  {{ partial "hero.html" (dict "Title" .Title "Content" (.Content | safeHTML) ) }}
+
+  <div class="feed">
+    {{ range .RegularPages}} {{.Render "li"}} {{ end }} {{.Render "list"}}
+  </div>
+  
+{{ end }}
+

@@ -1,0 +1,25 @@
+<!--partial "socials.html" (dict "Context" .Context "OnlyFeatured" true)-->
+
+<div class="not-prose space-x-2 py-3">
+  {{ $s := .Context.Site.Params.social }}
+  {{if .OnlyFeatured}}
+  {{$s = where .Context.Site.Params.social "featured" true}}
+  {{end}}
+
+  
+  {{ range $index, $elem := $s }}
+  
+  <a
+    class="text-base-content"
+    target="_blank"
+    rel="noopener"
+    href="{{ $elem.url }}"
+    aria-label="{{ $elem.name }}"
+  >
+    <i class="{{ $elem.icon }} text-2xl" aria-hidden="true"></i>
+  </a>
+ 
+  {{end}}
+
+  
+</div>

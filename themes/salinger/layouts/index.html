@@ -1,0 +1,39 @@
+{{ define "main" }} {{ $hero := (cond (ne .Params.title nil)
+.Params.title .Site.Title) }} {{partial "hero.html" (dict "Title"
+$hero "Subtitle" .Params.description "Large" true "Context" . )}}
+
+<div class="space-y-20">
+  {{range $index, $taxonomy := .Site.Sections}}
+  <div class="feed">
+    <h2 class="text-4xl font-bold font-serif">
+      {{with $taxonomy.Params.title }} {{.}} {{else}}
+      Featured {{$taxonomy.Section}} {{end}}
+      <a
+        href="/{{$taxonomy.Section}}"
+        class="align-middle badge badge-sm hover:badge-outline"
+        ><span class="font-sans font-normal text-[0.7rem] capitalize"
+          > <i class="fa-solid fa-arrow-right-long"></i>
+          See all ({{ len (where .Site.RegularPages "Section" "=="
+          $taxonomy.Section) }})
+         </span
+      ></a>
+    </h2>
+
+    {{$pages := (where $taxonomy.RegularPages ".Params.featured" "=" true)}}
+    {{if eq .Site.Params.showOnlyFeaturedPost false}}
+    {{$pages = $taxonomy.RegularPages}}
+    {{end}}
+    {{range $pages}}
+    {{.Render "li" }} {{end}}
+  </div>
+  {{end}}
+</div>
+
+<!--
+
+<h5 class="feed"><a class="section__title primary" href="/projects/website">Do you like this website?</a></h5>
+-->
+
+<div class="feed prose">{{.Content}}</div>
+
+{{ end }}

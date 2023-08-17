@@ -1,0 +1,12 @@
+{{ define "main" }} 
+  {{with .Params.hideTitle}}
+    <div class="py-12"></div>
+  {{else}} 
+    {{ partial "hero.html" (dict "Title" .Title "Subtitle" .Params.Description "Context" .) }}
+  {{end}} 
+
+  {{if .Params.toc}} {{partial "toc" .}} {{end}}
+
+  <article class="prose text-justify feed">{{- .Content -}}</article>
+
+{{ end }}
