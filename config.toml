@@ -12,14 +12,14 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+ homeTitle = "FOSSCell NITC" # Set a different text for the header on the home page
   subtitle = "Monthly Newsletter by FOSSCell NITC"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "logo.png" # Expecting square dimensions
+  favicon = "logo.png"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   wordCount = true
@@ -51,11 +51,11 @@ pygmentsCodefencesGuessSyntax = true
   github = "https://github.com/FossCell-NITCalicut"
   gitlab = "https://gitlab.com/fosscell"
   twitter = "FOSSCell"
-  linkedin = ""
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  telegram = "username"
-  mastodon = "url"
+  linkedin = "https://www.linkedin.com/company/foss-cell-nitc/"
+  instagram = "https://www.instagram.com/fosscellnitc/"
+  youtube = "https://www.youtube.com/@fosscellnitc7804" # or channel/channelname
+  telegram = "https://t.me/foss_meet"
+  mastodon = "https://floss.social/@FOSSCell"
 
 #[[menu.main]]
 #    name = "Posts"

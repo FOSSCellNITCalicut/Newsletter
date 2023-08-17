@@ -156,13 +156,13 @@ figure:not(.dark) img, img.white {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #E27F5E;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
-    background: #505050;
+    background: #E27F5E;
     border-bottom: 1px solid #AAA;
   }
 }
@@ -597,7 +597,7 @@ footer div.disclaimer {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 100px 0;
-  color: #FFF;
+  color: #E27F5E;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1,
