@@ -36,6 +36,6 @@ jobs:
           git add .
           git config user.name 'tellmeY18'
           git config user.email 'vysakh_b190622ec@nitc.ac.in'
-          git commit -m 'Updated site'
+          git commit -m 'Updated Newsletter'
           git push          
 
