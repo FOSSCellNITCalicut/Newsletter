@@ -5,6 +5,8 @@ on:
       - main
   pull_request:
 
+permissions:
+  contents: write  # Allows the workflow to modify repository contents
 jobs:
   deploy:
     runs-on: ubuntu-latest
