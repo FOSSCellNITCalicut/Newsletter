@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on FOSSCell NITC</title>
+    <link>https://newsletter.fosscell.org/categories/</link>
+    <description>Recent content in Categories on FOSSCell NITC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>fosscell@nitc.ac.in (FOSSCell NITC)</managingEditor>
+    <webMaster>fosscell@nitc.ac.in (FOSSCell NITC)</webMaster><atom:link href="https://newsletter.fosscell.org/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
