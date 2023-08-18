@@ -1,7 +1,7 @@
 ---
 title: Friday Night FOSS
 subtitle: Overnight Hacker Session 
-date: 2023-08-19
+date: 2023-08-19T04:05:14+05:30
 tags: ["hackathon", "FridayNightFoss", "New Event"]
 bigimg: [{src: "/FNF/event.jpg", desc: "Hacker Session"}, {src: "/FNF/finale.jpg", desc: "Concluding"}]
 ---
