@@ -1,9 +1,0 @@
-{{ define "main"}}
-  {{ partial "hero" (dict "Title" "404 Error" "Subtitle" "Ops, that's awkward...")}}
-   
-<div class="prose feed">
-  {{with .Site.Params.text404}}{{. | safeHTML}}{{else}}Looks like you're lost, go back to the <a href='/'>home</a>.{{end}}
-
-</div>   
-
-{{ end }}
