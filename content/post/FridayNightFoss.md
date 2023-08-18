@@ -4,6 +4,7 @@ subtitle: Overnight Hacker Session
 date: 2023-08-19T04:05:14+05:30
 tags: ["hackathon", "FridayNightFoss", "New Event"]
 bigimg: [{src: "/FNF/event.jpg", desc: "Hacker Session"}, {src: "/FNF/finale.jpg", desc: "Concluding"}]
+og_image: "/FNF/event.jpg" 
 ---
 
 We are thrilled to announce the successful conclusion of our inaugural edition of Friday Night FOSS, a monthly mini-hackathon dedicated to collaboratively building free and open-source software. On Friday, August 11th, 2023, we witnessed a remarkable showcase of creativity, innovation, and collaborative spirit, where  participants delved into refining their software ideas, exploring potential applications, and strategically planning to create a minimum viable product (MVP). 
