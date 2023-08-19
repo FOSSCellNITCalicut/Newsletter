@@ -12,6 +12,7 @@ We are thrilled to announce the successful conclusion of our inaugural edition o
 Our FOSSCell members played a pivotal role as mentors, providing guidance and addressing queries, fostering a dynamic environment of learning and growth. 
 
 The following projects have been ranked as winners in our hackathon:
+
 🏆1st Place: [MessManagement](https://github.com/Shibin-Ez/messManagement)
 
 🏆2nd Place: [mockStock](https://github.com/aadhavanpl/mockStock)
