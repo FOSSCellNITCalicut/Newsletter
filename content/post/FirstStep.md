@@ -6,7 +6,7 @@ tags: ["FOSS", "New Apps", "FOSS Apps"]
 bigimg: [{src: "/FIRST/big1.png", desc: "F-Droid"}, {src: "/FIRST/big2.webp", desc: "Free as in FREEDOM"}]
 ---
 
-Often we recieve the question "How to get into FOSS?" Here's the answer !!! 
+Often we receive the question "How to get into FOSS?" Here's the answer !!! 
 
 Are you struggling to break free from the closed source maze? Say goodbye to proprietary software and join us on a journey to unlock the boundless potential of FOSS together. 
 
@@ -48,3 +48,9 @@ In contrast to the constraints of proprietary players, Blackhole Music Player st
 [Checkout Official Page Of BlackHole](https://sangwan5688.github.io/)
 
 
+# How TO BE PART OF FOSSCELL ?
+
+If you're ready to embrace change, to explore the realm of FOSS and to build collaborate and cater the software needs of the NITC Community you can sign up to be a FOSSCell Associate. The associates will be volunteers for FOSSCell and are expected to show up for every FOSSCell event. They'll recieve updates about nearby FOSS happenings and are expected to use various FREE Softwares including GNU/Linux on their PC.
+You'll be evaluated based on your overall performance throughout the period in which you are an associate and the consistent associate members will be inducted directly into the FOSSCell.
+
+click [here to fill the OpenForm](https://opnform.com/forms/fosscell-associate-registration-form-f28vjv) to register as an associate 
