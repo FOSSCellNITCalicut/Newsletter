@@ -3,7 +3,7 @@ title: "Your First Steps to FOSS"
 subtitle: Introducing FOSS Softwares you can use daily 
 date: 2023-08-21T00:36:10+05:30
 tags: ["FOSS", "New Apps", "FOSS Apps"]
-bigimg: [{src: "/FNF/event.jpg", desc: "Hacker Session"}, {src: "/FNF/finale.jpg", desc: "Concluding"}]
+bigimg: [{src: "/FIRST/big1.png", desc: "F-Droid"}, {src: "/FIRST/big2.webp", desc: "Free as in FREEDOM"}]
 ---
 
 Often we recieve the question "How to get into FOSS?" Here's the answer !!! 
@@ -32,7 +32,9 @@ Checkout one of the F-Droid client to browse and install free softwares for your
 
 
 ### NewPipe
-NewPipe is a lightweight frontend for popular streaming services like YouTube, SoundCloud and PeerTube. It is completely ad-free and offers features like background playback and downloads, which are often restricted on other streaming platforms like the YouTube app. You don't need an account for it as it parses the website of the streaming service to fetch the data we require. You can still subscribe to channels you like and this data is locally stored, ensuring a secure and private user experience. Since it is open source, it is monitored by numerous users, assuring its safety against vulnerabilities and malware. Futhermore, as it uses  the GPL-V3 license, you can create your version of the app by modifying the source code and add new functionalities or modifications to suit your needs.
+NewPipe is a lightweight frontend for popular streaming services like YouTube, SoundCloud and PeerTube. It is completely ad-free and offers features like background playback and downloads, which are often restricted on other streaming platforms like the YouTube app. 
+![](/FIRST/newpipe.png)
+You don't need an account for it as it parses the website of the streaming service to fetch the data we require. You can still subscribe to channels you like and this data is locally stored, ensuring a secure and private user experience. Since it is open source, it is monitored by numerous users, assuring its safety against vulnerabilities and malware. Futhermore, as it uses  the GPL-V3 license, you can create your version of the app by modifying the source code and add new functionalities or modifications to suit your needs.
 
 [Checkout Newpipe On Github](https://github.com/TeamNewPipe/NewPipe)
 
