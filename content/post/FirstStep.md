@@ -1,7 +1,7 @@
 ---
 title: "Your First Steps to FOSS"
 subtitle: Introducing FOSS Software you can use daily 
-date: 2023-08-21T00:36:10+05:30
+date: 2023-08-31T00:36:10+05:30
 tags: ["FOSS", "New Apps", "FOSS Apps"]
 bigimg: [{src: "/FIRST/big1.png", desc: "F-Droid"}, {src: "/FIRST/big2.webp", desc: "Free as in FREEDOM"}]
 ---

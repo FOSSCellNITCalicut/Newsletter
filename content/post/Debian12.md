@@ -1,7 +1,7 @@
 ---
 title: Debian 12 User Review
 subtitle: The Universal Operating System  
-date: 2023-08-31T01:07:55+05:30
+date: 2023-08-21T01:07:55+05:30
 tags: ["Distro", "Review", "New Release"]
 bigimg: [{src: "https://0x0.st/HpNC.png", desc: "ScreenShots"}, {src: "https://0x0.st/Hpqi.png", desc: "Gnome"}, {src: "https://0x0.st/Hpqz.png", desc: "Cleaner UI"}]
 og_image: "/FNF/event.jpg" 
@@ -55,13 +55,8 @@ Debian 12 boasts noticeable enhancements in performance and responsiveness. The 
 While Debian 12 continues to uphold its stability ethos, it can sometimes mean utilizing older software versions. To address this, users can turn to Flatpak, enabling the installation of the latest app versions alongside stable native applications. Thus, the concern about outdated software becomes less pressing. The absence of GNOME 44, which couldn't make the cut due to being released in March 2023, after the stable version freeze, is still a let down.
 
 ### Removal of All FOSS ISO
-In the earlier releases od Debian, there was always an ISO which was included only the free and open source software and drivers. Although the presence of this did cause a confusion for new users, the removal of this ISO might not sit well with staunch supporters of the Free Software Foundation's principles.
-
-
-
+In previous releases of Debian, there was a distinct ISO that exclusively featured free and open-source software along with compatible drivers. While this intention was noble, it did introduce some confusion for new users. However, it's worth noting that the recent removal of this ISO might not entirely align with the preferences of staunch advocates of the Free Software Foundation’s principles. While not inherently integrated into the Debian system, the installer now has the capability to enable these non-free components.
 
 ---------------------
 
 Debian 12 "Bookworm" is a milestone release that further cements Debian's status as a pillar of the Linux community. The iso file can be downloaded [here](https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.1.0-amd64-DVD-1.iso), and I recommend all FOSS enthusiasts to try out this distro.
-
-
