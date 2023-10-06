@@ -3,6 +3,7 @@ title: "Syncing Notes and Files via Syncthing and Joplin"
 subtitle: A Comprehensive Guide
 date: 2023-08-21T00:36:10+05:30
 tags: ["FOSS", "Syncthing", "Joplin"]
+author: "Afthab E K"
 bigimg: [{src: "/syncthingJoplin/logos.jpg", desc: "Syncthing and Joplin"},]
 ---
 
