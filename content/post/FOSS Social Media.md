@@ -1,3 +1,9 @@
+---
+title: The FOSS Social Media - The Free and Open Source Software Social Media
+subtitle: All about FOSS
+date: 2023-10-08T07:37:00+05:30
+---
+
 # **BREAK THE CHAIN, EMBRACE OPENNESS: DISCOVER THE POWER OF FOSS SOCIAL MEDIA PLATFORMS.**
 
 Are you tired at the mercy of big tech giants and the monopoly played by them to control over your social media experience? It's high time you should start concerning about your data privacy. **Decode Digital Democracy** and embrace the power of **Free and Open Source Software (FOSS) Social Media Platforms!!**
@@ -14,7 +20,7 @@ FOSS social media refers to social networking platforms built on open-source sof
 
 **Quest for Privacy**: Privacy and data ownership are paramount in FOSS social media platforms. Many of these platforms incorporate features like end-to-end encryption, providing you with secure environment for your conversations. Plus, being community-driven, FOSS platforms evolve based on the needs and desires of the users themselves. They typically collect minimal personal information and give users control over their data. This stands in stark contrast to some mainstream platforms that profit from users' data without their explicit consent.
 
-![Privacy](https://images.app.goo.gl/J43rmgwDq4LeNmJCA)
+![Privacy](https://st.depositphotos.com/1092019/2708/i/450/depositphotos_27088923-stock-photo-privacy-concept.jpg)
 
 **Decentralization**: Many FOSS social media platforms are decentralized, meaning they don't rely on a single, centralized server. Instead, they operate on a federated model, where multiple independent instances (servers) can communicate with each other. This decentralization reduces the risk of censorship and promotes diversity in online communities.
 
@@ -24,7 +30,7 @@ FOSS social media refers to social networking platforms built on open-source sof
 
 - **Mastodon**: Mastodon is a decentralized microblogging platform that resembles Twitter. Users can join different instances (servers) or host their own, allowing for a diverse range of communities and interests. With Mastodon's decentralized model, you can connect with others across multiple instances, each with its own rules and moderation policies.
 
-![Mastodon](https://images.app.goo.gl/UQ9DkmBVA1iLZGmw5)
+![Mastodon](https://media.lactualite.com/2022/11/max_mastodon-1200x675.jpg)
 
 - **Diaspora**: Diaspora is a decentralized social network that emphasizes privacy. Users connect through "pods," which are independently hosted servers, giving them control over their data.
 
@@ -43,6 +49,8 @@ FOSS social media refers to social networking platforms built on open-source sof
 Remember that the FOSS social media landscape is dynamic, with new platforms emerging and existing ones evolving. Exploring these alternatives allows users to find the platform that best suits their preferences and values, fostering a more diverse and user-centric digital environment.
 
 ## **Breaking the Chains of Proprietary Platforms**
+
+![Break the Chain](https://75d03c5f1bfbbbb9cc13-369a671ebb934b49b239e372822005c5.ssl.cf1.rackcdn.com/live-discussion-breaking-chain-hindering-ransomwares-killchain-showcase_image-7-w-3344.jpg)
 
 Traditional social media platforms often come at the cost of user privacy and control. They thrive on collecting and monetizing user data. In contrast, FOSS social media platforms are founded on principles that reject the idea of proprietary control. These platforms adhere to open-source principles, making their source code freely available for scrutiny and modification.
 
