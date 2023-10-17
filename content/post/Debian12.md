@@ -3,6 +3,7 @@ title: Debian 12 User Review
 subtitle: The Universal Operating System  
 date: 2023-08-21T01:07:55+05:30
 tags: ["Distro", "Review", "New Release"]
+author: "Afthab E K"
 bigimg: [{src: "https://0x0.st/HpNC.png", desc: "ScreenShots"}, {src: "https://0x0.st/Hpqi.png", desc: "Gnome"}, {src: "https://0x0.st/Hpqz.png", desc: "Cleaner UI"}]
 og_image: "/FNF/event.jpg" 
 
