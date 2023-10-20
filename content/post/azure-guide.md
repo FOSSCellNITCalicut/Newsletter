@@ -122,7 +122,7 @@ You will also need to agree to verifying the fingerprint when connecting.
 On a successful login, you will be greeted with a 'Welcome' on Ubuntu :)
 
 
-![Login](//azure-guide/login.png)
+![Login](/azure-guide/login.png)
 
 
 [^1]: [Ubuntu](https://ubuntu.com) is a very popular Linux [distribution](https://wiki.installgentoo.com/wiki/GNU/Linux#What.28s_all_this_about_distributions.3F) used on servers.
