@@ -43,19 +43,19 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-#[Author]
+[Author]
 # # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-# name = "FOSSCell NITC"
-# website = "fosscell.org"
-# email = "fosscell@nitc.ac.in"
-# github = "https://github.com/FossCell-NITCalicut"
-# gitlab = "https://gitlab.com/fosscell"
-# twitter = "FOSSCell"
-# linkedin = "https://www.linkedin.com/company/foss-cell-nitc/"
-# instagram = "https://www.instagram.com/fosscellnitc/"
-# youtube = "https://www.youtube.com/@fosscellnitc7804" # or channel/channelname
-# telegram = "https://t.me/foss_meet"
-# mastodon = "https://floss.social/@FOSSCell"
+ name = "FOSSCell NITC"
+ website = "fosscell.org"
+ email = "fosscell@nitc.ac.in"
+ github = "https://github.com/FossCell-NITCalicut"
+ gitlab = "https://gitlab.com/fosscell"
+ twitter = "FOSSCell"
+ linkedin = "https://www.linkedin.com/company/foss-cell-nitc/"
+ instagram = "https://www.instagram.com/fosscellnitc/"
+ youtube = "https://www.youtube.com/@fosscellnitc7804" # or channel/channelname
+ telegram = "https://t.me/foss_meet"
+ mastodon = "https://floss.social/@FOSSCell"
 
 [[menu.main]]
     name = "Posts"
