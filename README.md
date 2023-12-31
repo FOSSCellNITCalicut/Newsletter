@@ -32,25 +32,27 @@ git clone https://github.com/FOSSCellNITC/Newsletter.git
 
 4. Create a new post
     ```bash
-    hugo new posts/<post-name>.md
+    hugo new post/<post-name>.md
     ```
     The post will be created in the `content/posts` folder
 
-5. Edit the post in the `content/posts` folder
+5. Edit the post in the `content/post` folder
+
+6. Add images to the `static` folder
     
-6. Run `hugo` to build the site
+7. Run `hugo` to build the site
     ```bash
     hugo
     ```
     The site will be built in the `public` folder
 
-7, Run `hugo serve` to serve the site
+8, Run `hugo serve` to serve the site
     ```bash
     hugo serve
     ```
     The site will be served at `localhost:1313`
 
-8. Push the changes to the repository
+9. Push the changes to the repository
     ```bash
     git add .
     git commit -m "commit message"
