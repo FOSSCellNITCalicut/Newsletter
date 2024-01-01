@@ -38,7 +38,7 @@ git clone https://github.com/FOSSCellNITC/Newsletter.git
 
 5. Edit the post in the `content/post` folder
 
-6. Add images to the `static` folder
+6. Add images to the `static` folder. Refer to the existing posts for the image path
     
 7. Run `hugo` to build the site
     ```bash
@@ -47,9 +47,7 @@ git clone https://github.com/FOSSCellNITC/Newsletter.git
     The site will be built in the `public` folder
 
 8, Run `hugo serve` to serve the site
-    ```bash
-    hugo serve
-    ```
+
     The site will be served at `localhost:1313`
 
 9. Push the changes to the repository
