@@ -23,7 +23,7 @@ Flatpaks offer a solution by enabling the use of official app versions directly 
 
 The alternative to Flatpak is Snap, which is a similar package manager. However, Snap is not as widely supported as Flatpak, and it's not officially supported on Debian-based distributions. As a result, I recommend using Flatpak for the best experience.
 
-## ProtoDB - A database for compatibility
+## ProtonDB - A database for compatibility
 ![protondb](/linuxgaming/protondb.jpg)
 
 Due to the advent of steam deck, a lot of games are now being ported to Linux. You can check for the games directly supported on the GNU/Linux platform by searching on ProtonDB. ProtonDB is a community-driven database that provides information on the compatibility of Windows games with Linux. It also provides a rating for each game based on the user's experience. This information is incredibly useful for determining whether a game is compatible with Linux and the potential performance issues that may arise.
