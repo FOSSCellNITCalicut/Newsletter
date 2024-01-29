@@ -8,18 +8,18 @@ author: "Saliaku"
 ![WIKI FOSSCELL NITC HOME PAGE](/wiki-fosscell/wiki-fosscell.png)
 
 ## **Navigation**
-Every page on a [WIKI FOSSCELL NITC](Main%20Page) site not only has information to show you but also allows you to move to other pages. This is called "navigation".
+Every page on a [WIKI FOSSCELL NITC](https://wiki.fosscell.org/index.php/Main_Page) site not only has information to show you but also allows you to move to other pages. This is called "navigation".
 
 The three main navigation elements are:
 
-1. The [sidebar](mediawikiwiki:Help:Navigation#Sidebar). You need to log-in before seeing all the sidebar options.
-2. Links (often called [tabs](mediawikiwiki:Help:Navigation#Page_tabs)) which relate to the page currently displayed: its associated discussion page, the version history, and – most notably – the edit link.
-3. [User links](mediawikiwiki:Help:Navigation#User_links); as an anonymous user, you'll see a link to create an account or log in. As a logged-in user, you have a collection of personal links.
+1. The [sidebar](https://www.mediawiki.org/wiki/Help:Navigation#Sidebar). You need to log-in before seeing all the sidebar options.
+2. Links (often called [tabs](https://www.mediawiki.org/wiki/Help:Navigation#Page_tabs)) which relate to the page currently displayed: its associated discussion page, the version history, and – most notably – the edit link.
+3. [User links](https://www.mediawiki.org/wiki/Help:Navigation#User_links); as an anonymous user, you'll see a link to create an account or log in. As a logged-in user, you have a collection of personal links.
 
 ## **Editing a Page**
 It's very easy to edit the contents of a wiki:
 
-1. Click the "**Edit**" [page tab](mediawikiwiki:Help:Navigation#page-tabs) at the top of the page.
+1. Click the "**Edit**" [page tab](https://www.mediawiki.org/wiki/Help:Navigation#Page_tabs) at the top of the page.
 2. Make changes to the text.
 3. Click the "**Save page**" button.
 
@@ -29,7 +29,7 @@ The number one rule of wiki editing is to **be bold**. Go ahead—make changes. 
 
 An edit can contribute whole new paragraphs or pages of information, or it can be as simple as fixing a typo or a spelling mistake. In general, try to add or edit text so that it is clear and concise. Most importantly, make sure you are always aiming to do something that improves the contents of the wiki.
 
-When you need to use some type of formatting, such as for new headings or bolding of text, you do this using wiki syntax or the buttons in the edit [toolbar](metawikimedia:Help:Edit_toolbar) above the editing zone.
+When you need to use some type of formatting, such as for new headings or bolding of text, you do this using wiki syntax or the buttons in the edit [toolbar](https://meta.wikimedia.org/wiki/Help:Edit_toolbar) above the editing zone.
 
 ## **Starting a New Page**
 There are several ways to start a new page.
