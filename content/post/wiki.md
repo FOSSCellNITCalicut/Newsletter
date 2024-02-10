@@ -5,7 +5,7 @@ date: 2024-01-29T20:45:30+05:30
 tags: ["wiki", "fosscell"]
 author: "Saliaku"
 ---
-![WIKI FOSSCELL NITC HOME PAGE](/wiki-fosscell/wiki-fosscell.png)
+
 
 ## **Navigation**
 Every page on a [WIKI FOSSCELL NITC](https://wiki.fosscell.org/index.php/Main_Page) site not only has information to show you but also allows you to move to other pages. This is called "navigation".
