@@ -3,13 +3,13 @@ title: "FOSSMeet'24"
 date: 2024-02-10T04:05:14+05:30
 subtitle: "17th Edition of FOSSCell NITC's Flagship Event"
 author: "Amal Faris"
-bigimg: [{src: "/fossmeet24/foss24logo1.png", desc: "FOSSMeet'24", }, ]
+bigimg: [{src: "/fossmeet24/IMG_8443.jpg", desc: "FOSSMeet'24", }, ]
 tags: ["FOSSMeet", "FOSS", "NITC","Events"]
 ---
 ![FOSSMeet 24](/fossmeet24/foss24logo1.png)
 
 ## FOSSMeet
-FOSSCell NITC, the Free and Open Source Software (FOSS) Community![WIKI FOSSCELL NITC HOME PAGE](/wiki-fosscell/wiki-fosscell.png) of NITC, is dedicated to popularize the use of FOSS and spread awareness in campus regarding its advantages through a variety of engaging activities such as demonstrations, fests, workshops etc. FOSSMeet is the club's annual flagship event on FOSS, conducted at National Institute of Technology, Calicut. Started with a vision to create a culture of innovation, evolution and open standards, FOSSMeet serves as a platform to nurture the FOSS community and the dissemination of FOSS ideology through interactive hands-on sessions, discussions and insightful lectures. Throughout its sixteen editions, the event has nurtured its vision to create a culture of innovation, evolution and support the FOSS community as well as promote the FOSS ideology.alternatives/appflowy.webp
+FOSSCell NITC, the Free and Open Source Software (FOSS) Community of NITC, is dedicated to popularize the use of FOSS and spread awareness in campus regarding its advantages through a variety of engaging activities such as demonstrations, fests, workshops etc. FOSSMeet is the club's annual flagship event on FOSS, conducted at National Institute of Technology, Calicut. Started with a vision to create a culture of innovation, evolution and open standards, FOSSMeet serves as a platform to nurture the FOSS community and the dissemination of FOSS ideology through interactive hands-on sessions, discussions and insightful lectures. Throughout its sixteen editions, the event has nurtured its vision to create a culture of innovation, evolution and support the FOSS community as well as promote the FOSS ideology.
 
 ## History
 ![FLOSSMeet 05](/fossmeet24/floss05.jpg)
