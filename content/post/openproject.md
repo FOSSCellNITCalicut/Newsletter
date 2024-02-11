@@ -123,4 +123,4 @@ Foster communication and idea exchange within your team:
 
 ## Conclusion:
 
-OpenProject equips you with a suite of tools for efficient project management within the open-source ecosystem. Remember, OpenProject offers plenty of features to explore beyond the basics. Dive into advanced functionalities, customize your workspace, and ensure your project management as efficient as it can be. This platform opens doors to collaboration, transparency, and success. Ready to take your projects to new heights? Dive into the world of OpenProject today! Happy collaborating! 🚀✨
+OpenProject equips you with a suite of tools for efficient project management within the open-source ecosystem. Remember, OpenProject offers plenty of features to explore beyond the basics. Dive into advanced functionalities, customize your workspace, and ensure your project management as efficient as it can be. This platform opens doors to collaboration, transparency, and success. Ready to take your projects to new heights? Send us a mail at fosscell@nitc.ac.in to get an Openproject of your own, hosted on our server, for free!!
