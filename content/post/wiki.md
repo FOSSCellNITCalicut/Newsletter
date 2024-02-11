@@ -9,23 +9,12 @@ author: "Saliaku"
 
 
 ---
+---
 
-## Welcome to Wiki FossCell!
-
-Wiki FOSSCell is your one-stop hub for all things related to the NITC and its amazing community! 
-
-### **What We Offer:**
-- **Comprehensive Information**: Find everything from academic resources to campus events, student projects to faculty accomplishments.
-- **Collaborative Platform**: Join our community to share, discover, and celebrate the vibrant life at NITC.
-- **Dive In and Explore**: Jump into our dynamic repository of knowledge and contribute your insights to enrich our collective understanding!
-
-### **Ready to Get Started?**
-- [Explore Now](https://wiki.fosscell.org/index.php/Main_Page) to discover the world of NITC!
-- [Contribute](https://wiki.fosscell.org/index.php/How_to_Guide) your knowledge and experiences to help build a better Wiki FossCell!
-
-Let's make learning about NITC fun and accessible for everyone! 
+NIT Calicut has a long history, and the events that took place in the past have shaped the student community. Stories of days gone by are usually passed down through tales told by seniors and alumni and old articles written in various papers and newsletters, all destined to fade away. It doesn’t have to be this way, and it starts with us. The NITC FOSSCell Wiki takes care of the hard work of documenting the vibrant history and details of our campus, from the rooms in the buildings that lie within the campus walls, to the guests invited in past editions of programmes like FOSSMeet. Here comes the best part; you can be a part of it too! We believe that the wiki being fully open-source and community driven makes for a treasure for those looking to know more about our campus and to harness the power of collective knowledge. Head over to wiki.fosscell.org and be a part of remembering the past, and being the future of NITC.
 
 ---
+
 ![wikifosscell](https://i.ibb.co/4j7JnTH/Screenshot-from-2024-02-11-00-00-24.png)
 
 
