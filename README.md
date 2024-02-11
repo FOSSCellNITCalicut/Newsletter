@@ -12,8 +12,9 @@ Once you've forked the repository, you can clone it to your local machine and st
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/YourUsername/Newsletter.git
+    ```bash
+    git clone https://github.com/YourUsername/Newsletter.git
+    ```
 
 2. Install hugo
     For Arch based distros
@@ -52,7 +53,7 @@ git clone https://github.com/YourUsername/Newsletter.git
     ```
     The site will be built in the `public` folder
 
-8, Run `hugo serve` to serve the site
+8. Run `hugo serve` to serve the site
 
     The site will be served at `localhost:1313`
 
