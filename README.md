@@ -1,13 +1,19 @@
 # FOSSCellNITC Newsletter
-The html template for Newsletter and Blog built with hugo.
+
+The HTML template for Newsletter and Blog built with Hugo.
 
 ## How to Contribute
+
+### Fork the Repository
+
+To contribute to this project, you'll first need to fork the repository to your own GitHub account. You can do this by clicking the "Fork" button at the top-right corner of this page.
+
+Once you've forked the repository, you can clone it to your local machine and start making changes.
+
 1. Clone the repository
 
 ```bash
-git clone https://github.com/FOSSCellNITC/Newsletter.git
-```
-
+git clone https://github.com/YourUsername/Newsletter.git
 
 2. Install hugo
     For Arch based distros

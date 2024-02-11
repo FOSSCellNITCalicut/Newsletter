@@ -7,7 +7,33 @@ author: "Saliaku"
 ---
 
 
-## **Navigation**
+
+---
+
+## Welcome to Wiki FossCell!
+
+Wiki FOSSCell is your one-stop hub for all things related to the NITC and its amazing community! 
+
+### **What We Offer:**
+- **Comprehensive Information**: Find everything from academic resources to campus events, student projects to faculty accomplishments.
+- **Collaborative Platform**: Join our community to share, discover, and celebrate the vibrant life at NITC.
+- **Dive In and Explore**: Jump into our dynamic repository of knowledge and contribute your insights to enrich our collective understanding!
+
+### **Ready to Get Started?**
+- [Explore Now](https://wiki.fosscell.org/index.php/Main_Page) to discover the world of NITC!
+- [Contribute](https://wiki.fosscell.org/index.php/How_to_Guide) your knowledge and experiences to help build a better Wiki FossCell!
+
+Let's make learning about NITC fun and accessible for everyone! 
+
+---
+![wikifosscell](https://i.ibb.co/4j7JnTH/Screenshot-from-2024-02-11-00-00-24.png)
+
+
+
+
+### **If you're new here, here are the steps you need to follow**
+
+### **Navigation**
 Every page on a [WIKI FOSSCELL NITC](https://wiki.fosscell.org/index.php/Main_Page) site not only has information to show you but also allows you to move to other pages. This is called "navigation".
 
 The three main navigation elements are:
@@ -16,7 +42,7 @@ The three main navigation elements are:
 2. Links (often called [tabs](https://www.mediawiki.org/wiki/Help:Navigation#Page_tabs)) which relate to the page currently displayed: its associated discussion page, the version history, and – most notably – the edit link.
 3. [User links](https://www.mediawiki.org/wiki/Help:Navigation#User_links); as an anonymous user, you'll see a link to create an account or log in. As a logged-in user, you have a collection of personal links.
 
-## **Editing a Page**
+### **Editing a Page**
 It's very easy to edit the contents of a wiki:
 
 1. Click the "**Edit**" [page tab](https://www.mediawiki.org/wiki/Help:Navigation#Page_tabs) at the top of the page.
@@ -31,7 +57,7 @@ An edit can contribute whole new paragraphs or pages of information, or it can b
 
 When you need to use some type of formatting, such as for new headings or bolding of text, you do this using wiki syntax or the buttons in the edit [toolbar](https://meta.wikimedia.org/wiki/Help:Edit_toolbar) above the editing zone.
 
-## **Starting a New Page**
+### **Starting a New Page**
 There are several ways to start a new page.
 
 ### **From the Search Box**
