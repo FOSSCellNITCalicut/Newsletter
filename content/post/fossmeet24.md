@@ -35,7 +35,7 @@ FOSSMeet'24 is currently accepting proposals, welcoming a wide range of content 
 
 **Registrations**
 
-Registration for FOSSMeet'24 has not yet started but is expected to open soon.
+Registration for FOSSMeet'24 has begun. To register, head over to the [registration page](https://www.townscript.com/e/fossmeet24-022332)
 
 **Venue** 
 
