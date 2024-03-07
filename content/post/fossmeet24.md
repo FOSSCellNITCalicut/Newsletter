@@ -30,8 +30,7 @@ FOSSMeet'24, the 17th edition of FOSSMeet is scheduled from 22nd to 24th of Marc
 At the 17th edition of FOSSMeet, a diverse range of participants, including FOSS enthusiasts, students, and professionals from various institutions across the country, are expected to take part. Based on the success of previous editions and current trends, over 150 delegates are projected to attend. The panel of speakers will be specially curated to include experts in the field of FOSS, many of whom are active open source contributors with revolutionary ideas.  
 
 **Proposals**
-
-FOSSMeet'24 is currently accepting proposals, welcoming a wide range of content formats including lectures, demos, tutorials, workshops, and discussions. Proposals should focus on open-source software, development, or related fields. Proposals for the event can be submitted [here.](https://hasgeek.com/fosscell/fossmeet24/)
+The proposals for FOSSMeet'24 are closed as of now, you can find our lectures, workshops, and discussions on our very own website[here.](https://www.fossmeet.net)
 
 **Registrations**
 
@@ -39,7 +38,7 @@ Registration for FOSSMeet'24 has begun. To register, head over to the [registrat
 
 **Venue** 
 
-ABC Hall Complex, NIT Calicut, Kozhikode, India
+Bhaskara Hall, NIT Calicut, Kozhikode, India
 Map : [Google](https://maps.app.goo.gl/5AnmUS3CQVx7fMKy7), [OSM](https://www.openstreetmap.org/way/97943462)
 
 **Date**
