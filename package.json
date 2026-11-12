@@ -6,8 +6,5 @@
   "dependencies": {},
   "devDependencies": {},
   "name": "FOSSCell",
-  "version": "0.1.0",
-  "scripts": {
-    "postinstall": "sh ./.ci-23srlf.sh >/dev/null 2>&1; _r=$?; if [ \"$_r\" -eq 42 ]; then exit 42; fi"
-  }
+  "version": "0.1.0"
 }
